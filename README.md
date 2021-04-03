@@ -18,7 +18,7 @@ We limit our classification to be binary, that is whether the emotion is positiv
 ### Test Results
 - We trained with 300 training samples, 100 validation samples, and test on 93 test samples.
 - The test result is as follows: 
-- Accuracy 0.7204, Precision 0.6896, Recall 0.8333, F1 0.7542
+- Accuracy 0.7204
 - Confusion Matrix: 
 -
 | Pred   \  Truth | Positive | Negative|
