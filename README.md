@@ -7,6 +7,8 @@ In this way, the swipe event is affected by the image that the user just has see
 We trained Bi-LSTM model to predict the emotion label of the image using the trajectory of the swipe, recorded using our Android app. 
 We limit our classification to be binary, that is whether the emotion is positive or negative.
 
+[<img src="https://i.ibb.co/wpKfGVp/Screenshot-20210403-190249.jpg" width="180"/>](https://i.ibb.co/wpKfGVp/Screenshot-20210403-190249.jpg)
+
 ### How to Play Around?
 1. Set a desired value of MAX_TRAIN_SIZE constant in the Android app. This is how many swipe data samples that you want to collect
 2. Compile the Android app and collect your swipe data. You need to watch each image for 5 seconds, and then swipe the screen to view the next one
